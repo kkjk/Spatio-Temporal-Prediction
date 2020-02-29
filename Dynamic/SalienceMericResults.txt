@@ -1,0 +1,7 @@
+Saliency Metrics Calculated
+NSS: 5.802059710431242
+Similarity: 0.3843137254901961
+Correlation: 0.007503883909757328
+AUC JUDD: 0.9989
+AUC BORJI: 0.99
+

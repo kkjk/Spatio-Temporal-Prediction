@@ -1,0 +1,21 @@
+{
+    "Static":
+    {
+
+    },
+
+    "Dynamic":
+    {
+        "FeatureDimension":"10"
+    },
+
+    "Lstm_Static":
+    {
+
+    },
+
+    "Lstm_Dynamic":
+    {
+
+    }
+}
